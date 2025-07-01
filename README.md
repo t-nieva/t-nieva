@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tetiana Niehrieieva! 👋 
 
 <!--
 **t-nieva/t-nieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+## 📊 GitHub Stats
+
+![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-nieva&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-nieva&layout=compact&theme=dark)
+
