@@ -11,6 +11,8 @@
   </a>
 </p>
 
+![GitHub Snake](https://raw.githubusercontent.com/t-nieva/snk/output/github-snake-dark.svg)
+
 <!--
 **t-nieva/t-nieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
