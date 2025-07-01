@@ -1,5 +1,16 @@
 ## Hi, I'm Tetiana Niehrieieva! 👋 
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=t-nieva.visitor.badge&left_color=royalblue&right_color=black" />
+
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,bash,linux,postgres,git,github,vscode,pycharm,docker" />
+
+  </a>
+</p>
+
 <!--
 **t-nieva/t-nieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
