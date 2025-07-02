@@ -10,3 +10,5 @@
 
   </a>
 </p>
+
+![snake gif](https://github.com/t-nieva/t-nieva/blob/output/github-snake-dark.svg)
