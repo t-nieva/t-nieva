@@ -12,3 +12,12 @@
 </p>
 
 ![snake gif](https://github.com/t-nieva/t-nieva/blob/output/github-snake-dark.svg)
+
+<!-- Social connections -->
+<div align="center">
+
+## 🌐 Connect with Me 🍬  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-niehrieieva)
+
+</div>
+
